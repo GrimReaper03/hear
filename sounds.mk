@@ -13,6 +13,34 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
+    vendor/sounds/alarms/Assopito.ogg:system/media/audio/alarms/Assopito.ogg \
+    vendor/sounds/alarms/Bandicoot.ogg:system/media/audio/alarms/Bandicoot.ogg \
+    vendor/sounds/alarms/ChargeMeUp.ogg:system/media/audio/alarms/ChargeMeUp.ogg \
+    vendor/sounds/alarms/CityPursuit.ogg:system/media/audio/alarms/CityPursuit.ogg \
+    vendor/sounds/alarms/Descendant.ogg:system/media/audio/alarms/Descendant.ogg \
+    vendor/sounds/alarms/Detroit.ogg:system/media/audio/alarms/Detroit.ogg \
+    vendor/sounds/alarms/HalfBits.ogg:system/media/audio/alarms/HalfBits.ogg \
+    vendor/sounds/alarms/Melancholic.ogg:system/media/audio/alarms/Melancholic.ogg \
+    vendor/sounds/alarms/MoonKalimba.ogg:system/media/audio/alarms/MoonKalimba.ogg \
+    vendor/sounds/alarms/Queens.ogg:system/media/audio/alarms/Queens.ogg \
+    vendor/sounds/alarms/RoyalMess.ogg:system/media/audio/alarms/RoyalMess.ogg \
+    vendor/sounds/notifications/Bubble.ogg:system/media/audio/notifications/Bubble.ogg \
+    vendor/sounds/notifications/Bumblebee.ogg:system/media/audio/notifications/Bumblebee.ogg \
+    vendor/sounds/notifications/ChiNotif.ogg:system/media/audio/notifications/ChiNotif.ogg \
+    vendor/sounds/notifications/GentlePanther.ogg:system/media/audio/notifications/GentlePanther.ogg \
+    vendor/sounds/notifications/HeyThere.ogg:system/media/audio/notifications/HeyThere.ogg \
+    vendor/sounds/notifications/RabbitHole.ogg:system/media/audio/notifications/RabbitHole.ogg \
+    vendor/sounds/ringtones/Assopito.ogg:system/media/audio/ringtones/Assopito.ogg \
+    vendor/sounds/ringtones/Bandicoot.ogg:system/media/audio/ringtones/Bandicoot.ogg \
+    vendor/sounds/ringtones/ChargeMeUp.ogg:system/media/audio/ringtones/ChargeMeUp.ogg \
+    vendor/sounds/ringtones/CityPursuit.ogg:system/media/audio/ringtones/CityPursuit.ogg \
+    vendor/sounds/ringtones/Descendant.ogg:system/media/audio/ringtones/Descendant.ogg \
+    vendor/sounds/ringtones/Detroit.ogg:system/media/audio/ringtones/Detroit.ogg \
+    vendor/sounds/ringtones/HalfBits.ogg:system/media/audio/ringtones/HalfBits.ogg \
+    vendor/sounds/ringtones/Melancholic.ogg:system/media/audio/ringtones/Melancholic.ogg \
+    vendor/sounds/ringtones/MoonKalimba.ogg:system/media/audio/ringtones/MoonKalimba.ogg \
+    vendor/sounds/ringtones/Queens.ogg:system/media/audio/ringtones/Queens.ogg \
+    vendor/sounds/ringtones/RoyalMess.ogg:system/media/audio/ringtones/RoyalMess.ogg \
     vendor/sounds/ui/audio_initiate.ogg:system/media/audio/ui/audio_initiate.ogg \
     vendor/sounds/ui/camera_click.ogg:system/media/audio/ui/camera_click.ogg \
     vendor/sounds/ui/camera_focus.ogg:system/media/audio/ui/camera_focus.ogg \
@@ -36,4 +64,4 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ui/Unlock.ogg:system/media/audio/ui/Unlock.ogg \
     vendor/sounds/ui/VideoRecord.ogg:system/media/audio/ui/VideoRecord.ogg \
     vendor/sounds/ui/VideoStop.ogg:system/media/audio/ui/VideoStop.ogg \
-    vendor/sounds/ui/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg \
+    vendor/sounds/ui/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg 
