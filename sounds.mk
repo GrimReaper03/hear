@@ -65,3 +65,7 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ui/VideoRecord.ogg:system/media/audio/ui/VideoRecord.ogg \
     vendor/sounds/ui/VideoStop.ogg:system/media/audio/ui/VideoStop.ogg \
     vendor/sounds/ui/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg 
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.config.ringtone=Descendant.ogg \
+    ro.config.notification_sound=RabbitHole.ogg
