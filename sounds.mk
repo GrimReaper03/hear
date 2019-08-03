@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ringtones/Descendant.ogg:system/media/audio/ringtones/Descendant.ogg \
     vendor/sounds/ringtones/Detroit.ogg:system/media/audio/ringtones/Detroit.ogg \
     vendor/sounds/ringtones/HalfBits.ogg:system/media/audio/ringtones/HalfBits.ogg \
+    vendor/sounds/ringtones/IceCreamTruck.ogg:system/media/audio/ringtones/IceCreamTruck.ogg \
     vendor/sounds/ringtones/LonelynessIsBetterOfSomeOtherThings.ogg:system/media/audio/ringtones/LonelynessIsBetterOfSomeOtherThings.ogg \
     vendor/sounds/ringtones/LonelynessRiff.ogg:system/media/audio/ringtones/LonelynessRiff.ogg \
     vendor/sounds/ringtones/Melancholic.ogg:system/media/audio/ringtones/Melancholic.ogg \
@@ -46,6 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ringtones/Queens.ogg:system/media/audio/ringtones/Queens.ogg \
     vendor/sounds/ringtones/RoyalMess.ogg:system/media/audio/ringtones/RoyalMess.ogg \
     vendor/sounds/ringtones/StreamingOverdrive.ogg:system/media/audio/ringtones/StreamingOverdrive.ogg \
+    vendor/sounds/ringtones/Tarlo.ogg:system/media/audio/ringtones/Tarlo.ogg \
     vendor/sounds/ringtones/YouCantLieAtTheDeads.ogg:system/media/audio/ringtones/YouCantLieAtTheDeads.ogg \
     vendor/sounds/ui/audio_initiate.ogg:system/media/audio/ui/audio_initiate.ogg \
     vendor/sounds/ui/camera_click.ogg:system/media/audio/ui/camera_click.ogg \
