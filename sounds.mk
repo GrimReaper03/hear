@@ -49,12 +49,15 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ringtones/StreamingOverdrive.ogg:system/media/audio/ringtones/StreamingOverdrive.ogg \
     vendor/sounds/ringtones/Tarlo.ogg:system/media/audio/ringtones/Tarlo.ogg \
     vendor/sounds/ringtones/YouCantLieAtTheDeads.ogg:system/media/audio/ringtones/YouCantLieAtTheDeads.ogg \
-    vendor/sounds/ui/audio_initiate.ogg:system/media/audio/ui/audio_initiate.ogg \
     vendor/sounds/ui/camera_click.ogg:system/media/audio/ui/camera_click.ogg \
     vendor/sounds/ui/camera_focus.ogg:system/media/audio/ui/camera_focus.ogg \
+    vendor/sounds/ui/ChargingStarted_48k.ogg:system/media/audio/ui/ChargingStarted_48k.ogg \
     vendor/sounds/ui/ChargingStarted.ogg:system/media/audio/ui/ChargingStarted.ogg \
     vendor/sounds/ui/Dock.ogg:system/media/audio/ui/Dock.ogg \
+    vendor/sounds/ui/Effect_Tick_48k.ogg:system/media/audio/ui/Effect_Tick_48k.ogg \
     vendor/sounds/ui/Effect_Tick.ogg:system/media/audio/ui/Effect_Tick.ogg \
+    vendor/sounds/ui/InCallNotification_48k.ogg:system/media/audio/ui/InCallNotification_48k.ogg \
+    vendor/sounds/ui/InCallNotification.ogg:system/media/audio/ui/InCallNotification.ogg \
     vendor/sounds/ui/KeypressDelete.ogg:system/media/audio/ui/KeypressDelete.ogg \
     vendor/sounds/ui/KeypressInvalid.ogg:system/media/audio/ui/KeypressInvalid.ogg \
     vendor/sounds/ui/KeypressReturn.ogg:system/media/audio/ui/KeypressReturn.ogg \
@@ -72,7 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ui/Unlock.ogg:system/media/audio/ui/Unlock.ogg \
     vendor/sounds/ui/VideoRecord.ogg:system/media/audio/ui/VideoRecord.ogg \
     vendor/sounds/ui/VideoStop.ogg:system/media/audio/ui/VideoStop.ogg \
-    vendor/sounds/ui/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg 
+    vendor/sounds/ui/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=Descendant.ogg \
