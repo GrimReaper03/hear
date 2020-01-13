@@ -86,3 +86,8 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.config.ringtone=Descendant.ogg \
     ro.config.notification_sound=RabbitHole.ogg \
     ro.config.alarm_alert=MoonKalimba.ogg
+
+DESCENDANT_PRODUCT_PROPERTIES += \
+    ro.config.ringtone=Descendant.ogg \
+    ro.config.notification_sound=RabbitHole.ogg \
+    ro.config.alarm_alert=MoonKalimba.ogg
