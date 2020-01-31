@@ -39,6 +39,8 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ringtones/Descendant.ogg:system/media/audio/ringtones/Descendant.ogg \
     vendor/sounds/ringtones/DescendantRemix.ogg:system/media/audio/ringtones/DescendantRemix.ogg \
     vendor/sounds/ringtones/DescendantRemix.ogg:system/media/audio/alarms/DescendantRemix.ogg \
+    vendor/sounds/ringtones/NightLights.ogg:system/media/audio/ringtones/NightLights.ogg \
+    vendor/sounds/ringtones/NightLights.ogg:system/media/audio/alarms/NightLights.ogg \
     vendor/sounds/ringtones/Detroit.ogg:system/media/audio/ringtones/Detroit.ogg \
     vendor/sounds/ringtones/HalfBits.ogg:system/media/audio/ringtones/HalfBits.ogg \
     vendor/sounds/ringtones/IceCreamTruck.ogg:system/media/audio/ringtones/IceCreamTruck.ogg \
@@ -87,9 +89,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.config.ringtone=DescendantRemix.ogg \
     ro.config.notification_sound=RabbitHole.ogg \
-    ro.config.alarm_alert=MoonKalimba.ogg
+    ro.config.alarm_alert=NightLights.ogg
 
 DESCENDANT_PRODUCT_PROPERTIES += \
     ro.config.ringtone=DescendantRemix.ogg \
     ro.config.notification_sound=RabbitHole.ogg \
-    ro.config.alarm_alert=MoonKalimba.ogg
+    ro.config.alarm_alert=NightLights.ogg
