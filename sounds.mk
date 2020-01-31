@@ -37,6 +37,8 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ringtones/ChargeMeUp.ogg:system/media/audio/ringtones/ChargeMeUp.ogg \
     vendor/sounds/ringtones/CityPursuit.ogg:system/media/audio/ringtones/CityPursuit.ogg \
     vendor/sounds/ringtones/Descendant.ogg:system/media/audio/ringtones/Descendant.ogg \
+    vendor/sounds/ringtones/DescendantRemix.ogg:system/media/audio/ringtones/DescendantRemix.ogg \
+    vendor/sounds/ringtones/DescendantRemix.ogg:system/media/audio/alarms/DescendantRemix.ogg \
     vendor/sounds/ringtones/Detroit.ogg:system/media/audio/ringtones/Detroit.ogg \
     vendor/sounds/ringtones/HalfBits.ogg:system/media/audio/ringtones/HalfBits.ogg \
     vendor/sounds/ringtones/IceCreamTruck.ogg:system/media/audio/ringtones/IceCreamTruck.ogg \
@@ -78,16 +80,16 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ui/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=Descendant.ogg \
+    ro.config.ringtone=DescendantRemix.ogg \
     ro.config.notification_sound=RabbitHole.ogg \
     ro.config.alarm_alert=MoonKalimba.ogg
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.config.ringtone=Descendant.ogg \
+    ro.config.ringtone=DescendantRemix.ogg \
     ro.config.notification_sound=RabbitHole.ogg \
     ro.config.alarm_alert=MoonKalimba.ogg
 
 DESCENDANT_PRODUCT_PROPERTIES += \
-    ro.config.ringtone=Descendant.ogg \
+    ro.config.ringtone=DescendantRemix.ogg \
     ro.config.notification_sound=RabbitHole.ogg \
     ro.config.alarm_alert=MoonKalimba.ogg
