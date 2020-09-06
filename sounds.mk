@@ -95,3 +95,8 @@ DESCENDANT_PRODUCT_PROPERTIES += \
     ro.config.ringtone=DescendantRemix.ogg \
     ro.config.notification_sound=RabbitHole.ogg \
     ro.config.alarm_alert=NightLights.ogg
+
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.config.ringtone=DescendantRemix.ogg \
+    ro.config.notification_sound=RabbitHole.ogg \
+    ro.config.alarm_alert=NightLights.ogg
