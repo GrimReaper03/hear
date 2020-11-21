@@ -13,6 +13,7 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
+    vendor/sounds/alarms/ABC.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/ABC.ogg \
     vendor/sounds/alarms/Assopito.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Assopito.ogg \
     vendor/sounds/alarms/Bandicoot.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Bandicoot.ogg \
     vendor/sounds/alarms/ChargeMeUp.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/ChargeMeUp.ogg \
@@ -20,12 +21,13 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/alarms/Descendant.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Descendant.ogg \
     vendor/sounds/alarms/Detroit.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Detroit.ogg \
     vendor/sounds/alarms/HalfBits.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/HalfBits.ogg \
+    vendor/sounds/alarms/Joining_the_Club.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Joining_the_Club \
     vendor/sounds/alarms/Melancholic.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Melancholic.ogg \
     vendor/sounds/alarms/MoonKalimba.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/MoonKalimba.ogg \
     vendor/sounds/alarms/Queens.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Queens.ogg \
     vendor/sounds/alarms/RoyalMess.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/RoyalMess.ogg \
-    vendor/sounds/music/Mad_Love-Emmanuel_Nwamadi.mp3:$(TARGET_COPY_OUT_PRODUCT)/media/audio/music/Mad_Love-Emmanuel_Nwamadi.mp3 \
     vendor/sounds/music/Mad_Love_RMX-Emmanuel_Nwamadi_x_Avery.mp3:$(TARGET_COPY_OUT_PRODUCT)/media/audio/music/Mad_Love_RMX-Emmanuel_Nwamadi_x_Avery.mp3 \
+    vendor/sounds/music/Mad_Love-Emmanuel_Nwamadi.mp3:$(TARGET_COPY_OUT_PRODUCT)/media/audio/music/Mad_Love-Emmanuel_Nwamadi.mp3 \
     vendor/sounds/notifications/Access.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Access.ogg \
     vendor/sounds/notifications/Bubble.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Bubble.ogg \
     vendor/sounds/notifications/Bumblebee.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Bumblebee.ogg \
@@ -34,22 +36,24 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/notifications/HeyThere.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/HeyThere.ogg \
     vendor/sounds/notifications/Incoming.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Incoming.ogg \
     vendor/sounds/notifications/RabbitHole.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/RabbitHole.ogg \
+    vendor/sounds/ringtones/ABC.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/ABC.ogg \
     vendor/sounds/ringtones/Assopito.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Assopito.ogg \
     vendor/sounds/ringtones/Bandicoot.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Bandicoot.ogg \
     vendor/sounds/ringtones/ChargeMeUp.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/ChargeMeUp.ogg \
     vendor/sounds/ringtones/CityPursuit.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/CityPursuit.ogg \
     vendor/sounds/ringtones/Descendant.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Descendant.ogg \
-    vendor/sounds/ringtones/DescendantRemix.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/DescendantRemix.ogg \
     vendor/sounds/ringtones/DescendantRemix.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/DescendantRemix.ogg \
-    vendor/sounds/ringtones/NightLights.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/NightLights.ogg \
-    vendor/sounds/ringtones/NightLights.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/NightLights.ogg \
+    vendor/sounds/ringtones/DescendantRemix.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/DescendantRemix.ogg \
     vendor/sounds/ringtones/Detroit.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Detroit.ogg \
     vendor/sounds/ringtones/HalfBits.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/HalfBits.ogg \
     vendor/sounds/ringtones/IceCreamTruck.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/IceCreamTruck.ogg \
+    vendor/sounds/ringtones/Joining_the_Club.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Joining_the_Club \
     vendor/sounds/ringtones/LonelynessIsBetterOfSomeOtherThings.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/LonelynessIsBetterOfSomeOtherThings.ogg \
     vendor/sounds/ringtones/LonelynessRiff.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/LonelynessRiff.ogg \
     vendor/sounds/ringtones/Melancholic.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Melancholic.ogg \
     vendor/sounds/ringtones/MoonKalimba.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/MoonKalimba.ogg \
+    vendor/sounds/ringtones/NightLights.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/NightLights.ogg \
+    vendor/sounds/ringtones/NightLights.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/NightLights.ogg \
     vendor/sounds/ringtones/Queens.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Queens.ogg \
     vendor/sounds/ringtones/RoyalMess.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/RoyalMess.ogg \
     vendor/sounds/ringtones/StreamingOverdrive.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/StreamingOverdrive.ogg \
