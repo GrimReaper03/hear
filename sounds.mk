@@ -22,6 +22,8 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/alarms/Detroit.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Detroit.ogg \
     vendor/sounds/alarms/HalfBits.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/HalfBits.ogg \
     vendor/sounds/alarms/Joining_the_Club.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Joining_the_Club \
+    vendor/sounds/alarms/Mad_Love-Emmanuel_Nwamadi_cut.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Mad_Love-Emmanuel_Nwamadi_cut.ogg \
+    vendor/sounds/alarms/Mad_Love_RMX-Emmanuel_Nwamadi_x_Avery_cut.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Mad_Love_RMX-Emmanuel_Nwamadi_x_Avery_cut.ogg \
     vendor/sounds/alarms/Melancholic.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Melancholic.ogg \
     vendor/sounds/alarms/MoonKalimba.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/MoonKalimba.ogg \
     vendor/sounds/alarms/Queens.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Queens.ogg \
@@ -48,8 +50,10 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/ringtones/HalfBits.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/HalfBits.ogg \
     vendor/sounds/ringtones/IceCreamTruck.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/IceCreamTruck.ogg \
     vendor/sounds/ringtones/Joining_the_Club.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Joining_the_Club \
-    vendor/sounds/ringtones/LonelynessIsBetterOfSomeOtherThings.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/LonelynessIsBetterOfSomeOtherThings.ogg \
     vendor/sounds/ringtones/LonelynessRiff.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/LonelynessRiff.ogg \
+    vendor/sounds/ringtones/LonelynessIsBetterOfSomeOtherThings.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/LonelynessIsBetterOfSomeOtherThings.ogg \
+    vendor/sounds/ringtones/Mad_Love-Emmanuel_Nwamadi_cut.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Mad_Love-Emmanuel_Nwamadi_cut.ogg \
+    vendor/sounds/ringtones/Mad_Love_RMX-Emmanuel_Nwamadi_x_Avery_cut.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Mad_Love_RMX-Emmanuel_Nwamadi_x_Avery_cut.ogg \
     vendor/sounds/ringtones/Melancholic.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Melancholic.ogg \
     vendor/sounds/ringtones/MoonKalimba.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/MoonKalimba.ogg \
     vendor/sounds/ringtones/NightLights.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/NightLights.ogg \
