@@ -29,7 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/sounds/alarms/Queens.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Queens.ogg \
     vendor/sounds/alarms/RoyalMess.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/RoyalMess.ogg \
     vendor/sounds/music/Mad_Love_RMX-Emmanuel_Nwamadi_x_Avery.mp3:$(TARGET_COPY_OUT_PRODUCT)/media/audio/music/Mad_Love_RMX-Emmanuel_Nwamadi_x_Avery.mp3 \
-    vendor/sounds/music/Mad_Love-Emmanuel_Nwamadi.mp3:$(TARGET_COPY_OUT_PRODUCT)/media/audio/music/Mad_Love-Emmanuel_Nwamadi.mp3 \
+    vendor/sounds/music/Mad_Love-Emmanuel_Nwamadi_cut.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/music/Mad_Love-Emmanuel_Nwamadi.ogg \
     vendor/sounds/notifications/Access.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Access.ogg \
     vendor/sounds/notifications/Bubble.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Bubble.ogg \
     vendor/sounds/notifications/Bumblebee.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Bumblebee.ogg \
